@@ -1,0 +1,36 @@
+.top
+{
+	height: 500px;
+	width: 200px;
+}
+
+#banner
+{
+	height: 100%;
+	width: 100%;
+	
+
+}
+#font
+{
+	font-family: "microsoft yahei";
+	color: rgb(255,0,255);
+	font-size: 20px;
+	font-weight: 200;
+	text-align: center;
+}
+#font1
+{
+color: #98989F;
+}
+#font2
+{
+	color:#E981BA;
+	
+}
+
+#font3
+{
+	color: #98989F;
+	font-weight: bold;
+}
